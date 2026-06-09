@@ -25,5 +25,7 @@ At this point following services would be up and running:
 | 2    | `socket.io-server` | `:9002` |
 | 3    | `s3-reverse-proxy` | `:8000` |
 
+### Architecture
 
+![Architecture](https://i.imgur.com/r7QUXqZ.png)
 
